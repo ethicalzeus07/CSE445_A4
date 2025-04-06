@@ -4,10 +4,6 @@
   <Hotel _Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
-    <Phone>800-937-8885</Phone>
-    <!-- NOTE: Some versions use "800-937-8461"; ensure you use the value exactly as in the assignment sample.
-         In our expected JSON sample the phones are "480-968-8885" and "800-937-8461". 
-         Adjust this to match the assignment sample exactly. -->
     <Phone>800-937-8461</Phone>
     <Address _NearestAirport="Sky Habor">
       <Number>11</Number>
@@ -33,7 +29,7 @@
   <Hotel _Rating="4.0">
     <Name>Marriott</Name>
     <Phone>602-987-6543</Phone>
-    <Address>
+    <Address _NearestAirport="Phoenix Airport">
       <Number>456</Number>
       <Street>Mill Ave</Street>
       <City>Tempe</City>
@@ -55,7 +51,7 @@
   <Hotel _Rating="4.0">
     <Name>Residence Inn</Name>
     <Phone>480-111-2222</Phone>
-    <Address>
+    <Address _NearestAirport="Phoenix Airport">
       <Number>101</Number>
       <Street>Apache Blvd</Street>
       <City>Tempe</City>
@@ -77,7 +73,7 @@
   <Hotel _Rating="3.7">
     <Name>Courtyard</Name>
     <Phone>480-777-8888</Phone>
-    <Address>
+    <Address _NearestAirport="Sky Habor">
       <Number>303</Number>
       <Street>Southern Ave</Street>
       <City>Tempe</City>
@@ -100,7 +96,7 @@
   <Hotel _Rating="4.3">
     <Name>AC Hotel</Name>
     <Phone>480-999-0000</Phone>
-    <Address>
+    <Address _NearestAirport="Phoenix Airport">
       <Number>505</Number>
       <Street>Rio Salado Pkwy</Street>
       <City>Tempe</City>
@@ -122,7 +118,7 @@
   <Hotel _Rating="3.9">
     <Name>Best Western</Name>
     <Phone>480-555-0000</Phone>
-    <Address>
+    <Address _NearestAirport="Phoenix Airport">
       <Number>707</Number>
       <Street>Main St</Street>
       <City>Tempe</City>
@@ -131,4 +127,3 @@
     </Address>
   </Hotel>
 </Hotels>
-

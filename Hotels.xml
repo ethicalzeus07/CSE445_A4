@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <!--  Figure 1 sample: Must match exactly (except attribute name changed to NearstAirport) -->
-  <Hotel _Rating="4.2">
+  <!-- EXACT Figure 1 sample -->
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
 
-  <!--  10 Additional Hotels  -->
-  <Hotel _Rating="4.5">
+  <!-- 10 Additional Hotels -->
+  <Hotel Rating="4.5">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-123-4567</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -26,7 +26,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Marriott</Name>
     <Phone>602-987-6543</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -37,10 +37,10 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.8">
+  <Hotel Rating="3.8">
     <Name>Hyatt</Name>
     <Phone>480-555-1212</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>789</Number>
       <Street>Broadway Rd</Street>
       <City>Tempe</City>
@@ -48,7 +48,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Residence Inn</Name>
     <Phone>480-111-2222</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -59,7 +59,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Embassy Suites</Name>
     <Phone>602-333-4444</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -70,10 +70,10 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.7">
+  <Hotel Rating="3.7">
     <Name>Courtyard</Name>
     <Phone>480-777-8888</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>303</Number>
       <Street>Southern Ave</Street>
       <City>Tempe</City>
@@ -81,11 +81,11 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Holiday Inn Express</Name>
     <Phone>480-222-3333</Phone>
     <Phone>480-222-3334</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>404</Number>
       <Street>Baseline Rd</Street>
       <City>Tempe</City>
@@ -93,7 +93,7 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.3">
+  <Hotel Rating="4.3">
     <Name>AC Hotel</Name>
     <Phone>480-999-0000</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -104,7 +104,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>DoubleTree</Name>
     <Phone>480-888-7777</Phone>
     <Address NearstAirport="Phoenix Airport">
@@ -115,7 +115,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.9">
+  <Hotel Rating="3.9">
     <Name>Best Western</Name>
     <Phone>480-555-0000</Phone>
     <Address NearstAirport="Phoenix Airport">

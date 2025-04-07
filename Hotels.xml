@@ -14,7 +14,7 @@
     </Address>
   </Hotel>
 
-  <!-- 10 Additional Hotels -->
+  <!-- 9 Additional Hotels (for a total of 10) -->
   <Hotel Rating="4.5">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-123-4567</Phone>
@@ -99,28 +99,6 @@
     <Address NearstAirport="Phoenix Airport">
       <Number>505</Number>
       <Street>Rio Salado Pkwy</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.0">
-    <Name>DoubleTree</Name>
-    <Phone>480-888-7777</Phone>
-    <Address NearstAirport="Phoenix Airport">
-      <Number>606</Number>
-      <Street>Priest Dr</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.9">
-    <Name>Best Western</Name>
-    <Phone>480-555-0000</Phone>
-    <Address NearstAirport="Phoenix Airport">
-      <Number>707</Number>
-      <Street>Main St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
